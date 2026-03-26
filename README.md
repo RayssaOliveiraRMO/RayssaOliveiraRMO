@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rayssa%20Oliveira&fontSize=48&fontColor=ff6eb4&animation=twinkling&fontAlignY=38&desc=Desenvolvedora%20Java%20em%20construção%20%7C%20ADS&descAlignY=58&descColor=ff6eb4&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rayssa%20Oliveira&fontSize=48&fontColor=ff6eb4&animation=twinkling&fontAlignY=38&desc=Desenvolvedora%20Java%20em%20construção%20%7C%20ADS&descAlignY=58&descColor=ffffff&descSize=18"/>
 
 </div>
 
@@ -46,7 +46,7 @@ public class Rayssa {
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,github,vscode,replit)](https://skillicons.dev)
 
 </div>
 
