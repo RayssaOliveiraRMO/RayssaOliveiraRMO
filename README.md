@@ -54,32 +54,6 @@ public class Rayssa {
 
 <div align="center">
 
-### 📊 Estatísticas
-
-<br>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RayssaOliveiraRMO&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&border_color=ff6eb4&title_color=ff6eb4&icon_color=ffb3d9"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaOliveiraRMO&layout=compact&langs_count=6&theme=rose_pine&border_color=ff6eb4&title_color=ff6eb4"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔥 Sequência
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=RayssaOliveiraRMO&theme=rose-pine&border=ff6eb4&ring=ff6eb4&fire=ffb3d9&currStreakLabel=ff6eb4" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 📬 Contato
 
 <br>
@@ -95,3 +69,4 @@ public class Rayssa {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 </div>
+
