@@ -6,11 +6,18 @@
 
 <div align="center">
 
-###  Olá! Eu sou a Rayssa 🤷🏻‍♀️💻🌸
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=ff6eb4&center=true&vCenter=true&width=600&lines=Erro%2C+depuro%2C+aprendo%2C+repito.;De+ADS+pra+dev+—+uma+linha+por+vez.;Se+compilar%2C+já+é+vitória.;Debugando+a+vida+e+o+código.;Código+limpo%2C+mente+caótica.;Hoje+deu+erro%2C+amanhã+vira+feature.;Rápida%2C+precisa%2C+consistente.)](https://git.io/typing-svg)
 
-<br>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=ff6eb4&center=true&vCenter=true&width=500&lines=Desenvolvedora+Java+em+formação...;Cursando+ADS+em+Goiânia;Apaixonada+por+back-end;Estudando+SQL+e+Banco+de+Dados;Construindo+minha+carreira+em+tech+💪)](https://git.io/typing-svg)
+---
+
+<div align="center">
+
+###  Oii! Eu sou a Rayssa 🤷🏻‍♀️ 💻🌸
+
+Cursando **Análise e Desenvolvimento de Sistemas**, com foco em me tornar **Desenvolvedora de Software**.  
+Atualmente construindo minha base em **Java** — do zero, com consistência.
 
 </div>
 
@@ -23,6 +30,22 @@
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,github,vscode,replit)](https://skillicons.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Minha cobrinha devorando contribuições
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayssaOliveiraRMO/RayssaOliveiraRMO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayssaOliveiraRMO/RayssaOliveiraRMO/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/RayssaOliveiraRMO/RayssaOliveiraRMO/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -45,4 +68,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 </div>
-
