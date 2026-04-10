@@ -37,7 +37,7 @@ Atualmente construindo minha base em **Java** — do zero, com consistência.
 
 <div align="center">
 
-### 🐍 Minha cobrinha devorando contribuições
+### 🐍 Minha cobrinha em ritmo de produção
 
 <br>
 
