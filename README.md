@@ -6,37 +6,13 @@
 
 <div align="center">
 
-### ☕ Olá! Eu sou a Rayssa 👩‍💻
+###  Olá! Eu sou a Rayssa 🤷🏻‍♀️💻🌸
 
-Cursando **Análise e Desenvolvimento de Sistemas**, com foco em me tornar **Desenvolvedora de Software**.  
-Atualmente construindo minha base em **Java** — do zero, com consistência.
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=ff6eb4&center=true&vCenter=true&width=500&lines=Desenvolvedora+Java+em+formação...;Cursando+ADS+em+Goiânia;Apaixonada+por+back-end;Estudando+SQL+e+Banco+de+Dados;Construindo+minha+carreira+em+tech+💪)](https://git.io/typing-svg)
 
 </div>
-
----
-
-```java
-public class Rayssa {
-
-    String curso  = "Análise e Desenvolvimento de Sistemas (ADS)";
-    String foco   = "Desenvolvimento de Software Back-end";
-    String email  = "rayssameira80@gmail.com";
-
-    // O que já domino em Java:
-    String[] java = {
-        "Variáveis e tipos primitivos (int, double, String, boolean)",
-        "Operadores e expressões",
-        "Estruturas condicionais (if, else if, else)",
-        "Comparação de texto com equals()",
-        "Lógica de programação"
-    };
-
-    // O que estou aprendendo agora:
-    String[] estudando = {
-        "SQL e Banco de Dados"
-    };
-}
-```
 
 ---
 
