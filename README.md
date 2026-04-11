@@ -55,21 +55,39 @@ Construindo minha base em **Java** — do zero, com consistência.
 <br>
 
 ```java
-String curso    = "ADS";
-String foco     = "Back-end Developer";
-String email    = "rayssameira80@gmail.com";
+String curso     = "ADS";
+String foco      = "Back-end Developer";
+String email     = "rayssameira80@gmail.com";
 String estudando = "SQL e Banco de Dados";
+String cidade    = "Goiânia, Brasil 📍";
 ```
 
 <br>
 
 **🛠️ Tecnologias**
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,github,vscode,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,github,replit)](https://skillicons.dev)
 
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+### 📍 Onde eu estou no mundo
+
+<br>
+
+<img src="https://www.google.com/maps/embed/v1/place?key=AIzaSyD-9tSrke72PouQMnMX-a7eZSW0jkFMBWY&q=Goiânia,Goiás,Brasil&zoom=5" width="0" height="0"/>
+
+![Goiânia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Brazil_location_map.svg/600px-Brazil_location_map.svg.png)
+
+> 🌎 **Goiânia, Goiás — Brasil**  
+> Construindo código no coração do Brasil 🇧🇷
+
+</div>
 
 ---
 
