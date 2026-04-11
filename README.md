@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=ff6eb4&center=true&vCenter=true&width=600&lines=Erro%2C+depuro%2C+aprendo%2C+repito.;De+ADS+pra+dev+—+uma+linha+por+vez.;Se+compilar%2C+já+é+vitória.;Debugando+a+vida+e+o+código.;Código+limpo%2C+mente+caótica.;Hoje+deu+erro%2C+amanhã+vira+feature.;Rápida%2C+precisa%2C+consistente." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=ff6eb4&center=true&vCenter=true&width=600&lines=Erro%2C+depuro%2C+aprendo%2C+repito.;De+ADS+pra+dev+%E2%80%94+uma+linha+por+vez.;Se+compilar%2C+j%C3%A1+%C3%A9+vit%C3%B3ria.;Debugando+a+vida+e+o+c%C3%B3digo.;C%C3%B3digo+limpo%2C+mente+ca%C3%B3tica.;Hoje+deu+erro%2C+amanh%C3%A3+vira+feature.;R%C3%A1pida%2C+precisa%2C+consistente." alt="typing"/>
 
 </div>
 
@@ -68,7 +68,7 @@ class Rayssa {
 
 <br>
 
-**Stack atual**
+**🛠️ Tecnologias**
 
 [![Skills](https://skillicons.dev/icons?i=java,mysql,github,replit&theme=dark)](https://skillicons.dev)
 
@@ -79,14 +79,15 @@ class Rayssa {
 ---
 
 <div align="center">
-  
+
+
 ### `< linguagens.stats />`
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaOliveiraRMO&layout=compact&langs_count=6&theme=rose_pine&border_color=ff6eb4&title_color=ff6eb4&icon_color=ffb3d9&hide_border=false"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaOliveiraRMO&layout=compact&langs_count=6&theme=rose_pine&border_color=ff6eb4&title_color=ff6eb4&icon_color=ffb3d9"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaOliveiraRMO&layout=donut&langs_count=6&theme=rose_pine&border_color=ff6eb4&title_color=ff6eb4&hide_border=false"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RayssaOliveiraRMO&show_icons=true&theme=rose_pine&border_color=ff6eb4&title_color=ff6eb4&icon_color=ffb3d9&include_all_commits=true"/>
 
 </div>
 
@@ -132,20 +133,6 @@ public class Roadmap {
 
 <div align="center">
 
-### `< where_am_i() />`
-
-<br>
-
-<img src="https://maps.googleapis.com/maps/api/staticmap?center=Goiânia,GO,Brasil&zoom=5&size=500x300&maptype=roadmap&markers=color:pink%7Clabel:R%7CGoiânia,GO,Brasil&style=element:geometry%7Ccolor:0x1d0a14&style=element:labels.text.fill%7Ccolor:ff6eb4&key=AIzaSyD-9tSrke72PouQMnMX-a7eZSW0jkFMBWY" alt="Goiânia"/>
-
-> 🌎 **Goiânia, Goiás — Brasil**
-
-</div>
-
----
-
-<div align="center">
-
 ### `< snake.exe />`
 
 <br>
@@ -166,9 +153,9 @@ public class Roadmap {
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayssaoliveira-rmo)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayssameira80@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-ff6eb4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayssaOliveiraRMO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayssa%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayssaoliveira-rmo)
+[![Gmail](https://img.shields.io/badge/Gmail-rayssameira80%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayssameira80@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RayssaOliveiraRMO-ff6eb4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayssaOliveiraRMO)
 
 </div>
 
