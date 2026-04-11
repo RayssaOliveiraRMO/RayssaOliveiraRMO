@@ -79,7 +79,7 @@ class Rayssa {
 ---
 
 <div align="center">
-
+  
 ### `< linguagens.stats />`
 
 <br>
