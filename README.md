@@ -80,6 +80,20 @@ class Rayssa {
 
 <div align="center">
 
+### `< linguagens.stats />`
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaOliveiraRMO&layout=compact&langs_count=6&theme=rose_pine&border_color=ff6eb4&title_color=ff6eb4&icon_color=ffb3d9&hide_border=false"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaOliveiraRMO&layout=donut&langs_count=6&theme=rose_pine&border_color=ff6eb4&title_color=ff6eb4&hide_border=false"/>
+
+</div>
+
+---
+
+<div align="center">
+
 ### `< roadmap.java />`
 
 </div>
