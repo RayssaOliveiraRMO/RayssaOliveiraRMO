@@ -1,36 +1,48 @@
-ddddoo:.              .,:looolloollllllllcccc::;;
-K00KKOc.             .'cllllodxkkkOOkkkkkxxxddolc,.
-0000Od'              .;oddolc:codxkkkkkkxxxxddol:.
-000Oo'              ...'',:cloddxkkkxxdoc::::::,.
-00Oo'             .';:::,'';:::lddxkkxdollcc::;,''.
-00d,.            .:oxxxxollllodddxkxlc::;,'',,,.
-0O:.            .cdkOOOkkxxxkxxxxxxocccc:'',...
-0x,            .:dxkkOOOOkkkkkkkxxxoclooolcc:,. 
-Oo.            .ldxxkkOOOkkkkxxxkkxolloddddol:.
-k;             'oxxkkkkkkkkkxxxkkkxolldxxxdol;.
-o.             .oxxxkxxkkkkxxddxxxdlllodddol:.
-;               ;dxxkxxxkkkkkkxxdoccccloool;.
-,               .:dxxxxdddxxxxxxxxdllllllc'.
-,                 ,oxxxxdooolllccc:;:cc:,. 
-'.                .:odxxxxdollcc::;;;,..
-:'                 .cddxxkxddoolcc;'.
-:.                  ,oddxxxxxdoc:,. 
-.                   .:odxddolc:'..
-                     .cdxxxdoc;'..
-                      .:odxxxdo:'.
-                       .,ldddoc,.. 
-                         ..'''....
-                          .........
-                          .......... 
-                          .........
-                         ....... 
-                         ......
-                         ....... 
-                           ........
-                            .......
-                            .......
-                            ......
-                           .......
+<div align="center">
+ 
+### `< minha_foto.ascii />`
+ 
+<br>
+ 
+```
+ddddoo:.              .,:looolloollllllllcccc::;;'.  .:doooodood:
+K00KKOc.             .'cllllodxkkkOOkkkkkxxxddolc,.  .l000000000o
+0000Od'              .;oddolc:codxkkkkkkxxxxddol:.    ,k00000000o
+000Oo'              ...''',:cloddxkkkxxdoc::::::,.    .d00000000o
+00Oo'             .';:::,';:::lddxkkxdollcc::;,'.     .o00000000o
+00d,.            .:oxxxxollllodddxkxlc::;,',,,,.      .dOO000000o
+0O:.            .cdkOOOkkxxxkxxxxxxocccc:'',...       'xOO000000o
+0x,            .:dxkkOOOOkkkkkkkxxxoclooolcc:,.       .oOO000000o
+Oo.            .ldxxkkOOOkkkkxxxkkxolloddddol:.        ,xOO00000o
+k;             'oxxkkkkkkkkkxxxkkkxolldxxxdol;.        .lOOO0000o
+o.             .oxxxkxxkkkkxxddxxxdlllodddol:.         .lkO00000o
+;               ;dxxkxxxkkkkkkxxdoccccloool;.          .lkO00000o
+,               .:dxxxxdddxxxxxxxxdllllllc'.           .cxO00000o
+,                 ,oxxxxdooolllccc:;:cc:,.              ;dO00000o
+'.                .:odxxxxdollcc::;;;,..               .,oOO0000o
+:'                 .cddxxkxddoolcc;'.                  ..lOO0000o
+:.                  ,oddxxxxxdoc:,.                     .ckO0000o
+.                   .:odxddolc:'..                       .;lkO00o
+                     .cdxxxdoc;'..                        ..;dO0o
+                      .:odxxxdo:'.                        ...'cko
+                       .,ldddoc,..                        ...';oc
+                         ..'''....                        ..,cdd:
+                          .........                       .;oxxxc
+                          ..........                     .'lxxxxc
+                          .........                      .,cdxxxc
+                         .......                         .,coxxxc
+                         ......                           .;ldxxc
+                         .......                           ':loxc
+                           ........                        .;cldc
+                            .......                        .,:ldc
+                            .......                       ..,:lo:
+                            ......                       ...,:co:
+                           .......                       ...;:co:
+```
+ 
+</div>
+ 
+---
 
 Olá, sou a Rayssa Oliveira! 👋
 Desenvolvedora Back-end em formação, apaixonada por Java e SQL.
