@@ -57,7 +57,6 @@ o,                      .:oddxxxkkxxdolc:,.                          .ckOO00000l
                                   ........                             ..',:cod;
                                   ........                           ....';:clo;
                                   ........                            ...';:clo;
-g banner (4).txt…]()
 
 
 ```
