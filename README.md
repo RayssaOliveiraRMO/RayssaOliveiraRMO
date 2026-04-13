@@ -1,4 +1,3 @@
-[banner (4).txt](https://github.com/user-attachments/files/26686072/banner.4.txt)[banner (3).txt](https://github.com/user-attachments/files/26686048/banner.3.txt)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rayssa%20Oliveira&fontSize=48&fontColor=ff6eb4&animation=twinkling&fontAlignY=38&desc=Desenvolvedora%20Java%20em%20construção%20%7C%20ADS&descAlignY=58&descColor=ffffff&descSize=18"/>
@@ -17,7 +16,8 @@
 <tr>
 <td width="42%" valign="top">
 
-```[Uploadindddddddo'                   .;:cllooooooooooooolllllllccc::;,.    ,oddddddddddd;
+```
+dddddddo'                   .;:cllooooooooooooolllllllccc::;,.    ,oddddddddddd;
 0000000x'                  .:llc:cclodxkkkkkkkkkkkxxxxdddolc;.    'x00000000000l
 00K000kc.                 .;ldxxdlc:::ldxxkkkkkkkkxxxxddolc:'.    .lO0000000000l
 0000Ok:.                 ...'',,;:looodxxxkkkkkxxdolcccllcc;.      :k0000000000l
@@ -57,8 +57,6 @@ o,                      .:oddxxxkkxxdolc:,.                          .ckOO00000l
                                   ........                             ..',:cod;
                                   ........                           ....';:clo;
                                   ........                            ...';:clo;
-
-
 ```
 
 </td>
@@ -82,23 +80,6 @@ class Rayssa {
   status    = "compilando...";
 }
 ```
-
-<br>
-
-**🛠️ Tecnologias**
-
-[![Skills](https://skillicons.dev/icons?i=java,mysql,github,replit&theme=dark)](https://skillicons.dev)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-
-### `< linguagens.stats />`
 
 <br>
 
