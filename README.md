@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=header&text=RAYSSA%20OLIVEIRA&fontSize=40&fontColor=ff6eb4&animation=fadeIn&fontAlignY=55&desc=.java&descSize=20&descColor=ffffff&descAlignY=80"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=ff6eb4&center=true&vCenter=true&width=650&lines=Erro%2C+depuro%2C+aprendo%2C+repito.;De+ADS+pra+dev+%E2%80%94+uma+linha+por+vez.;Se+compilar%2C+j%C3%A1+%C3%A9+vit%C3%B3ria.;Debugando+a+vida+e+o+c%C3%B3digo.;C%C3%B3digo+limpo%2C+mente+ca%C3%B3tica.;Hoje+deu+erro%2C+amanh%C3%A3+vira+feature.;R%C3%A1pida%2C+precisa%2C+consistente." alt="typing"/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
@@ -17,13 +19,13 @@
  ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=ff6eb4&center=true&vCenter=true&width=650&lines=Erro%2C+depuro%2C+aprendo%2C+repito.;De+ADS+pra+dev+%E2%80%94+uma+linha+por+vez.;Se+compilar%2C+j%C3%A1+%C3%A9+vit%C3%B3ria.;Debugando+a+vida+e+o+c%C3%B3digo.;C%C3%B3digo+limpo%2C+mente+ca%C3%B3tica.;Hoje+deu+erro%2C+amanh%C3%A3+vira+feature.;R%C3%A1pida%2C+precisa%2C+consistente." alt="typing"/>
-
 </div>
 
 ---
 
-<img align="right" width="38%" src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=300&section=header&text=☕&fontSize=80&fontAlignY=55&animation=twinkling"/>
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ```java
 /**
@@ -33,10 +35,10 @@
  */
 public class Dev extends Human {
 
-    private final String nome     = "Rayssa Oliveira";
-    private final String curso    = "ADS";
-    private final String foco     = "Back-end Developer";
-    private final String cidade   = "Goiânia, GO 🇧🇷";
+    private final String nome   = "Rayssa Oliveira";
+    private final String curso  = "ADS";
+    private final String foco   = "Back-end Developer";
+    private final String cidade = "Goiânia, GO 🇧🇷";
 
     private String[] dominando = {
         "Java ☕",
@@ -56,15 +58,8 @@ public class Dev extends Human {
 }
 ```
 
-<br clear="right"/>
-
----
-
-<div align="center">
-
-### — `minha_foto.ascii` —
-
-<br>
+</td>
+<td width="45%" valign="top" align="center">
 
 ```
 ddddoo:.              .,:looolloollllllllcccc::;;'.  .:doooodood:
@@ -102,7 +97,9 @@ o.             .oxxxkxxkkkkxxddxxxdlllodddol:.         .lkO00000o
                            .......                       ...;:co:
 ```
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
