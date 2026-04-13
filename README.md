@@ -17,46 +17,39 @@
 <td width="42%" valign="top">
 
 ```
-dddddddo'                   .;:cllooooooooooooolllllllccc::;,.    ,oddddddddddd;
-0000000x'                  .:llc:cclodxkkkkkkkkkkkxxxxdddolc;.    'x00000000000l
-00K000kc.                 .;ldxxdlc:::ldxxkkkkkkkkxxxxddolc:'.    .lO0000000000l
-0000Ok:.                 ...'',,;:looodxxxkkkkkxxdolcccllcc;.      :k0000000000l
-0000x:.                 .''.,'...,;:clodxxkkxxxdolc:;,,,'''.       ;k0O00000000l
-000kc.                .,cooool:;cll:cldxxxkkdolccccccccc:;'.       ;kO000000000l
-00Oc'.              ..:oxkkOkxdooolodxxxxxkxlc:::;'...'.''.        :kO000000000l
-00d,.              .'cdkkOOOOkkxxxxxkxxxxkxdcccclc;'';'...        .cOOO00000000l
-0Oo.               .:dxxkkOOOOkkkkkkkkkxxkxocclooolc::;;'.         ;kOOO0000000l
-0xc.               'ldxxkkkOOOOOkkkkkxxxxkxollodddddooll;.         .lOOO0000000l
-Oo,.               ,odxxxkkkkkkkkkxxxxxxxxxollodxxxddolc,           'dOO0000000l
-Oc.                ;dxxxkkkkkkkkkkkxxxkkkkxollodxxddool:.           .lOO0000000l
-d'                 ,oxxxxxxxkkkkkkxddddxxxdolllodddool:.            .oOO0000000l
-c.                 .cdxxxxxxxxkkkkkkkxxdolc::cloooool:.             'okO0000000l
-:                   .cdxxxxxdddxkkkkkkxxxdollllloolc,.              .lxO0000000l
-:.                   .:odxxxxdooodooooooollccclllc;.                .:xOO000000l
-;.                    .;oxxxxxxdoolccc:;;;,,;:c:;..                 .,dkO000000l
-'.                     .codxkxxxddolllcc::;;;;'.                   ..'lkO000000l
-;;.                     ,lddxkxxxxddoolcc:;'.                      ...ckO000000l
-o,                      .:oddxxxkkxxdolc:,.                          .ckOO00000l
-.                        .cddddddddooc;'..                            ,ldkO00O0l
-                         .,lddxxdolc:;'..                              .':dO000l
-                          .;lddxxxddlc;..                               ..'ck00l
-                           .,codxxxxdoc'.                               ....;oOl
-                            .':odxxxdl:..                              .....,cd:
-                              .',;;;,'....                             ....;ldo;
-                                ...........                            ..'cdddx;
-                                ............                           .,lxxxxx:
-                                ............                          ..:oxxxxx:
-                                ...........                           .';lxxxxx:
-                               ........                               .';cdxxxx:
-                               .......                                 .;codxxx:
-                               .......                                  ':codxx:
-                                .......                                 .':codd:
-                                 ..........                             .';clod:
-                                  .........                             .';:lod:
-                                  .........                             .',:lod:
-                                  ........                             ..',:cod;
-                                  ........                           ....';:clo;
-                                  ........                            ...';:clo;
+ddddoo:.              .,:looolloollllllllcccc::;;'.  .:doooodood:
+K00KKOc.             .'cllllodxkkkOOkkkkkxxxddolc,.  .l000000000o
+0000Od'              .;oddolc:codxkkkkkkxxxxddol:.    ,k00000000o
+000Oo'              ...''',:cloddxkkkxxdoc::::::,.    .d00000000o
+00Oo'             .';:::,';:::lddxkkxdollcc::;,'.     .o00000000o
+00d,.            .:oxxxxollllodddxkxlc::;,',,,,.      .dOO000000o
+0O:.            .cdkOOOkkxxxkxxxxxxocccc:'',...       'xOO000000o
+0x,            .:dxkkOOOOkkkkkkkxxxoclooolcc:,.       .oOO000000o
+Oo.            .ldxxkkOOOkkkkxxxkkxolloddddol:.        ,xOO00000o
+k;             'oxxkkkkkkkkkxxxkkkxolldxxxdol;.        .lOOO0000o
+o.             .oxxxkxxkkkkxxddxxxdlllodddol:.         .lkO00000o
+;               ;dxxkxxxkkkkkkxxdoccccloool;.          .lkO00000o
+,               .:dxxxxdddxxxxxxxxdllllllc'.           .cxO00000o
+,                 ,oxxxxdooolllccc:;:cc:,.              ;dO00000o
+'.                .:odxxxxdollcc::;;;,..               .,oOO0000o
+:'                 .cddxxkxddoolcc;'.                  ..lOO0000o
+:.                  ,oddxxxxxdoc:,.                     .ckO0000o
+.                   .:odxddolc:'..                       .;lkO00o
+                     .cdxxxdoc;'..                        ..;dO0o
+                      .:odxxxdo:'.                        ...'cko
+                       .,ldddoc,..                        ...';oc
+                         ..'''....                        ..,cdd:
+                          .........                       .;oxxxc
+                          ..........                     .'lxxxxc
+                          .........                      .,cdxxxc
+                         .......                         .,coxxxc
+                         ......                           .;ldxxc
+                         .......                           ':loxc
+                           ........                        .;cldc
+                            .......                        .,:ldc
+                            .......                       ..,:lo:
+                            ......                       ...,:co:
+                           .......                       ...;:co:
 ```
 
 </td>
@@ -80,6 +73,16 @@ class Rayssa {
   status    = "compilando...";
 }
 ```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `< linguagens.stats />`
 
 <br>
 
