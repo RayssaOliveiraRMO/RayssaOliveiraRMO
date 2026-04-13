@@ -1,9 +1,71 @@
 <div align="center">
- 
-### `< minha_foto.ascii />`
- 
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=header&text=RAYSSA%20OLIVEIRA&fontSize=40&fontColor=ff6eb4&animation=fadeIn&fontAlignY=55&desc=.java&descSize=20&descColor=ffffff&descAlignY=80"/>
+
+</div>
+
 <br>
- 
+
+<div align="center">
+
+```
+ ██████╗ ██████╗ ███╗   ███╗██████╗ ██╗██╗      █████╗ ███╗   ██╗██████╗  ██████╗
+██╔════╝██╔═══██╗████╗ ████║██╔══██╗██║██║     ██╔══██╗████╗  ██║██╔══██╗██╔═══██╗
+██║     ██║   ██║██╔████╔██║██████╔╝██║██║     ███████║██╔██╗ ██║██║  ██║██║   ██║
+██║     ██║   ██║██║╚██╔╝██║██╔═══╝ ██║██║     ██╔══██║██║╚██╗██║██║  ██║██║   ██║
+╚██████╗╚██████╔╝██║ ╚═╝ ██║██║     ██║███████╗██║  ██║██║ ╚████║██████╔╝╚██████╔╝
+ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=ff6eb4&center=true&vCenter=true&width=650&lines=Erro%2C+depuro%2C+aprendo%2C+repito.;De+ADS+pra+dev+%E2%80%94+uma+linha+por+vez.;Se+compilar%2C+j%C3%A1+%C3%A9+vit%C3%B3ria.;Debugando+a+vida+e+o+c%C3%B3digo.;C%C3%B3digo+limpo%2C+mente+ca%C3%B3tica.;Hoje+deu+erro%2C+amanh%C3%A3+vira+feature.;R%C3%A1pida%2C+precisa%2C+consistente." alt="typing"/>
+
+</div>
+
+---
+
+<img align="right" width="38%" src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=300&section=header&text=☕&fontSize=80&fontAlignY=55&animation=twinkling"/>
+
+```java
+/**
+ * @author  Rayssa Oliveira
+ * @version 1.0-SNAPSHOT
+ * @since   2025
+ */
+public class Dev extends Human {
+
+    private final String nome     = "Rayssa Oliveira";
+    private final String curso    = "ADS";
+    private final String foco     = "Back-end Developer";
+    private final String cidade   = "Goiânia, GO 🇧🇷";
+
+    private String[] dominando = {
+        "Java ☕",
+        "Lógica de programação",
+        "Estruturas condicionais",
+    };
+
+    private String[] aprendendo = {
+        "SQL & Banco de Dados 🗄️",
+        "Orientação a Objetos",
+        "Estruturas de repetição",
+    };
+
+    public String getStatus() {
+        return "compilando o futuro... 🚀";
+    }
+}
+```
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+### — `minha_foto.ascii` —
+
+<br>
+
 ```
 ddddoo:.              .,:looolloollllllllcccc::;;'.  .:doooodood:
 K00KKOc.             .'cllllodxkkkOOkkkkkxxxddolc,.  .l000000000o
@@ -39,83 +101,80 @@ o.             .oxxxkxxkkkkxxddxxxdlllodddol:.         .lkO00000o
                             ......                       ...,:co:
                            .......                       ...;:co:
 ```
- 
+
 </div>
- 
+
 ---
 
-Olá, sou a Rayssa Oliveira! 👋
-Desenvolvedora Back-end em formação, apaixonada por Java e SQL.
+<div align="center">
 
+### — `roadmap` —
 
-Sobre Mim
-Construindo minha base em Java — do zero, com consistência. Cursando ADS e de olho no back-end.
+<br>
 
-class Rayssa {
-  curso     = "ADS";
-  foco      = "Back-end Dev";
-  stack     = ["Java", "SQL"];
-  cidade    = "Goiânia, GO 📍";
-  status    = "compilando...";
-}
+| | Conteúdo | Status |
+|:---:|---|:---:|
+| `01` | Lógica de programação | ✅ |
+| `02` | Variáveis & tipos em Java | ✅ |
+| `03` | Estruturas condicionais | ✅ |
+| `04` | Comparação com `equals()` | ✅ |
+| `05` | SQL & Banco de Dados | 🔄 |
+| `06` | Orientação a Objetos | 🔄 |
+| `07` | Estruturas de repetição | 🔄 |
+| `08` | Spring Boot | 🎯 |
+| `09` | APIs REST | 🎯 |
+| `10` | Primeiro projeto completo | 🎯 |
 
+</div>
 
+---
 
-Minha Jornada de Estudos (roadmap.java)
-// 🗺️ Minha jornada de estudos — 2025/2026
- 
-public class Roadmap {
- 
-    // ✅ Concluído
-    static String[] feito = {
-        "✅ Lógica de programação",
-        "✅ Variáveis, tipos e operadores em Java",
-        "✅ Estruturas condicionais (if / else)",
-        "✅ Comparação de texto com equals()",
-    };
- 
-    // 🔄 Em progresso
-    static String[] agora = {
-        "🔄 SQL e Banco de Dados",
-        "🔄 Estruturas de repetição (for, while)",
-        "🔄 Orientação a Objetos (OOP)",
-    };
- 
-    // 🎯 Próximos passos
-    static String[] proximo = {
-        "🎯 Spring Boot",
-        "🎯 APIs REST com Java",
-        "🎯 Git e versionamento",
-        "🎯 Primeiro projeto back-end completo",
-    };
-}
+<div align="center">
 
+### — `linguagens.stats` —
 
+<br>
 
-Estatísticas do GitHub
-<!-- GitHub Stats Card --> 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayssaOliveiraRMO&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Rayssa's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaOliveiraRMO&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
-</p>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaOliveiraRMO&layout=compact&langs_count=6&theme=rose_pine&border_color=ff6eb4&title_color=ff6eb4"/>
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=RayssaOliveiraRMO&show_icons=true&theme=rose_pine&border_color=ff6eb4&title_color=ff6eb4&icon_color=ffb3d9&include_all_commits=true"/>
 
+</div>
 
-Tecnologias e Ferramentas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql" alt="Java, MySQL" />
-</p>
+---
 
+<div align="center">
 
-Contato
-<p align="center">
-  <a href="https://www.linkedin.com/in/rayssaoliveira-rmo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://github.com/kittinan/spotify-github-profile" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/static/v1?uid=657923487654321&theme=dark" alt="Spotify Now Playing"/></a>
-  <!-- Add more social links here -->
-</p>
+### — `snake.exe` —
 
+<br>
 
-Erro, depuro, prendo, repito. 🐛
-<!-- Typing SVG Animation --> 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=430&lines=Desenvolvedora+Java;Foco+em+Back-end;ADS+em+progresso;Sempre+aprendendo" alt="Typing SVG" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayssaOliveiraRMO/RayssaOliveiraRMO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayssaOliveiraRMO/RayssaOliveiraRMO/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/RayssaOliveiraRMO/RayssaOliveiraRMO/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### — `contato` —
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayssa%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayssaoliveira-rmo)
+[![Gmail](https://img.shields.io/badge/Gmail-rayssameira80%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayssameira80@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RayssaOliveiraRMO-ff6eb4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayssaOliveiraRMO)
+
+<br>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RayssaOliveiraRMO.RayssaOliveiraRMO&color=ff6eb4)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</div>
