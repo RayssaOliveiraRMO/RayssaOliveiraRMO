@@ -1,3 +1,4 @@
+[banner (4).txt](https://github.com/user-attachments/files/26686072/banner.4.txt)[banner (3).txt](https://github.com/user-attachments/files/26686048/banner.3.txt)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rayssa%20Oliveira&fontSize=48&fontColor=ff6eb4&animation=twinkling&fontAlignY=38&desc=Desenvolvedora%20Java%20em%20construção%20%7C%20ADS&descAlignY=58&descColor=ffffff&descSize=18"/>
@@ -16,32 +17,49 @@
 <tr>
 <td width="42%" valign="top">
 
-```
-                    ..',;cldxxkOOkdxkkkkkkkkkkkkkk
-............''.....'',,,,,,'',;:cc:dKXK000000O00KK
-...........:o:,;;;'................'cxO0KKXXXKKKKX
-...........cdl::,.........',;::::;'..'l0NXXXKXXNWW
-...........:ll:'. ......,;;:clloodoc'..:kXXXXXXNNN
-...........:c:.   .....',;;:clooddxxd;.':xKXXXXXNN
-..........'lc'.  .....'',,;:clooddxkkd,.':kKXNNNNN
-..........cl,.  ......''',,;:llodxxxdoc'.'cxO0KK00
-        .;oc..  ......''''',,;:loxdl:cl;..,:looooo
-........,co;.   ..........';;;;,:dd:';:'..':kKKKKK
-'.....:ollc'.  ............'::,.':ol;clc'.';o0KKKK
-'''',,cool:.   ......'.....,:;,..':odxxxl'.,ckKKKK
-'''',;cooo;.  ...  ..',,;;:::;'.''':oxxkl'.':d0KKK
-'''',;cool;.  ...  ..',,,,;;;;'.'..;ldxxc..';lOKKK
-'...';cooc,.  ...  ..''''',,;:;,,,;odxxd;...,lOKKK
-....':odo:'..  ..  ...''''',,,,,'',::coo,...,lOKKK
-....,cddl;.......   ..''''''',,'..';:co:...';oOO0K
- ..,cdddc,........   ...'''''''..';cldl'...;lkkoxK
-..':lool:'.. ..  ..     .........';cll'..';ldOxlok
-..,clllc,....  .   ..  .  ...''',;;'....':clxOdcox
-..;cll:;'........   .........';:co:.....;lllxOocod
-.':ll:;'.... .....  .....'''............:lccxklcod
-.,:l:,'....    ........'''',,'..  ...''':llcxxclod
-';::,''... ...   .........''',.......;;,:ccoxdclod
-,;:;''.......   .......  ....''....',;ccc::ldlclod
+```[Uploadindddddddo'                   .;:cllooooooooooooolllllllccc::;,.    ,oddddddddddd;
+0000000x'                  .:llc:cclodxkkkkkkkkkkkxxxxdddolc;.    'x00000000000l
+00K000kc.                 .;ldxxdlc:::ldxxkkkkkkkkxxxxddolc:'.    .lO0000000000l
+0000Ok:.                 ...'',,;:looodxxxkkkkkxxdolcccllcc;.      :k0000000000l
+0000x:.                 .''.,'...,;:clodxxkkxxxdolc:;,,,'''.       ;k0O00000000l
+000kc.                .,cooool:;cll:cldxxxkkdolccccccccc:;'.       ;kO000000000l
+00Oc'.              ..:oxkkOkxdooolodxxxxxkxlc:::;'...'.''.        :kO000000000l
+00d,.              .'cdkkOOOOkkxxxxxkxxxxkxdcccclc;'';'...        .cOOO00000000l
+0Oo.               .:dxxkkOOOOkkkkkkkkkxxkxocclooolc::;;'.         ;kOOO0000000l
+0xc.               'ldxxkkkOOOOOkkkkkxxxxkxollodddddooll;.         .lOOO0000000l
+Oo,.               ,odxxxkkkkkkkkkxxxxxxxxxollodxxxddolc,           'dOO0000000l
+Oc.                ;dxxxkkkkkkkkkkkxxxkkkkxollodxxddool:.           .lOO0000000l
+d'                 ,oxxxxxxxkkkkkkxddddxxxdolllodddool:.            .oOO0000000l
+c.                 .cdxxxxxxxxkkkkkkkxxdolc::cloooool:.             'okO0000000l
+:                   .cdxxxxxdddxkkkkkkxxxdollllloolc,.              .lxO0000000l
+:.                   .:odxxxxdooodooooooollccclllc;.                .:xOO000000l
+;.                    .;oxxxxxxdoolccc:;;;,,;:c:;..                 .,dkO000000l
+'.                     .codxkxxxddolllcc::;;;;'.                   ..'lkO000000l
+;;.                     ,lddxkxxxxddoolcc:;'.                      ...ckO000000l
+o,                      .:oddxxxkkxxdolc:,.                          .ckOO00000l
+.                        .cddddddddooc;'..                            ,ldkO00O0l
+                         .,lddxxdolc:;'..                              .':dO000l
+                          .;lddxxxddlc;..                               ..'ck00l
+                           .,codxxxxdoc'.                               ....;oOl
+                            .':odxxxdl:..                              .....,cd:
+                              .',;;;,'....                             ....;ldo;
+                                ...........                            ..'cdddx;
+                                ............                           .,lxxxxx:
+                                ............                          ..:oxxxxx:
+                                ...........                           .';lxxxxx:
+                               ........                               .';cdxxxx:
+                               .......                                 .;codxxx:
+                               .......                                  ':codxx:
+                                .......                                 .':codd:
+                                 ..........                             .';clod:
+                                  .........                             .';:lod:
+                                  .........                             .',:lod:
+                                  ........                             ..',:cod;
+                                  ........                           ....';:clo;
+                                  ........                            ...';:clo;
+g banner (4).txt…]()
+
+
 ```
 
 </td>
