@@ -107,36 +107,27 @@ o.             .oxxxkxxkkkkxxddxxxdlllodddol:.         .lkO00000o
 
 ### — `roadmap` —
 
-<br>
-
-| | Conteúdo | Status |
-|:---:|---|:---:|
-| `01` | Lógica de programação | ✅ |
-| `02` | Variáveis & tipos em Java | ✅ |
-| `03` | Estruturas condicionais | ✅ |
-| `04` | Comparação com `equals()` | ✅ |
-| `05` | SQL & Banco de Dados | 🔄 |
-| `06` | Orientação a Objetos | 🔄 |
-| `07` | Estruturas de repetição | 🔄 |
-| `08` | Spring Boot | 🎯 |
-| `09` | APIs REST | 🎯 |
-| `10` | Primeiro projeto completo | 🎯 |
-
 </div>
 
----
+```java
+// progresso atual — 2025/2026
 
-<div align="center">
+// [====================] 100% - concluido
+boolean logicaDeProgramacao       = true;  // ✔
+boolean variaveisETipos           = true;  // ✔
+boolean estruturasCondicionais    = true;  // ✔
+boolean comparacaoComEquals       = true;  // ✔
 
-### — `linguagens.stats` —
+// [==========>         ] 50%  - em andamento
+boolean sqlEBancoDeDados          = false; // ⟳
+boolean orientacaoAObjetos        = false; // ⟳
+boolean estruturasDeRepeticao     = false; // ⟳
 
-<br>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaOliveiraRMO&layout=compact&langs_count=6&theme=rose_pine&border_color=ff6eb4&title_color=ff6eb4"/>
-&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=RayssaOliveiraRMO&show_icons=true&theme=rose_pine&border_color=ff6eb4&title_color=ff6eb4&icon_color=ffb3d9&include_all_commits=true"/>
-
-</div>
+// [>                   ] 0%   - em breve
+boolean springBoot                = false; // ◌
+boolean apisRest                  = false; // ◌
+boolean primeiroProjetoCompleto   = false; // ◌
+```
 
 ---
 
