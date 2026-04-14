@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=ff6eb4&center=true&vCenter=true&width=650&lines=Erro%2C+depuro%2C+aprendo%2C+repito.;De+ADS+pra+dev+%E2%80%94+uma+linha+por+vez.;Se+compilar%2C+j%C3%A1+%C3%A9+vit%C3%B3ria.;Debugando+a+vida+e+o+c%C3%B3digo.;C%C3%B3digo+limpo%2C+mente+ca%C3%B3tica.;Hoje+deu+erro%2C+amanh%C3%A3+vira+feature.;R%C3%A1pida%2C+precisa%2C+consistente." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=ff6eb4&center=true&vCenter=true&width=650&lines=De+ADS+a+dev+%E2%80%94+em+evolu%C3%A7%C3%A3o+cont%C3%ADnua.;Erro%2C+depuro%2C+aprendo%2C+repito.;Hoje+deu+erro%2C+amanh%C3%A3+vira+feature.;N%C3%A3o+escrevo+c%C3%B3digo.+Eu+construo+solu%C3%A7%C3%B5es." alt="typing"/>
 
 </div>
 
