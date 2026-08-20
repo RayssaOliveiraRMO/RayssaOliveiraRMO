@@ -1,8 +1,12 @@
+Claro — eu manteria **a estética original**, mas mudaria o posicionamento para **Technology for Business + Data + desenvolvimento**, sem apagar seu lado de dev.
+
+Também colocaria **Java, SQL, Python e HTML com ícones oficiais**, além de Power BI e SAP.
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=ff6eb4&center=true&vCenter=true&width=650&lines=De+ADS+a+dev+%E2%80%94+em+evolu%C3%A7%C3%A3o+cont%C3%ADnua.;Erro%2C+depuro%2C+aprendo%2C+repito.;Hoje+deu+erro%2C+amanh%C3%A3+vira+feature.;N%C3%A3o+escrevo+c%C3%B3digo.+Eu+construo+solu%C3%A7%C3%B5es." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=ff6eb4&center=true&vCenter=true&width=700&lines=Technology+for+Business+%E2%80%94+em+evolu%C3%A7%C3%A3o+cont%C3%ADnua.;Entendo+o+problema.+Estruturo+a+solu%C3%A7%C3%A3o.;Dados%2C+tecnologia+e+processos.;Hoje+deu+erro%2C+amanh%C3%A3+vira+feature.;Transformando+problemas+em+solu%C3%A7%C3%B5es." alt="typing"/>
 
 </div>
 
@@ -10,7 +14,7 @@
 
 <div align="center">
 
-```
+```text
  ██████╗ ██████╗ ███╗   ███╗██████╗ ██╗██╗      █████╗ ███╗   ██╗██████╗  ██████╗
 ██╔════╝██╔═══██╗████╗ ████║██╔══██╗██║██║     ██╔══██╗████╗  ██║██╔══██╗██╔═══██╗
 ██║     ██║   ██║██╔████╔██║██████╔╝██║██║     ███████║██╔██╗ ██║██║  ██║██║   ██║
@@ -30,38 +34,43 @@
 ```java
 /**
  * @author  Rayssa Oliveira
- * @version 1.0-SNAPSHOT
- * @since   2025
+ * @version 1.0
+ * @since   2026
  */
-public class Dev extends Human {
+public class Rayssa extends Human {
 
     private final String nome   = "Rayssa Oliveira";
-    private final String curso  = "ADS";
-    private final String foco   = "Back-end Developer";
+    private final String curso  = "Análise e Desenvolvimento de Sistemas";
+    private final String foco   = "Technology for Business";
     private final String cidade = "Goiânia, GO 🇧🇷";
 
-    private String[] dominando = {
+    private String[] stack = {
         "Java ☕",
-        "Lógica de programação",
-        "Estruturas condicionais",
+        "SQL 🗄️",
+        "Python 🐍",
+        "HTML 🌐",
+        "Power BI 📊",
+        "SAP ⚙️"
     };
 
-    private String[] aprendendo = {
-        "SQL & Banco de Dados 🗄️",
+    private String[] explorando = {
+        "Data Analytics",
+        "Banco de Dados",
         "Orientação a Objetos",
-        "Estruturas de repetição",
+        "Automação & Processos"
     };
 
     public String getStatus() {
-        return "compilando o futuro... 🚀";
+        return "entendendo problemas, construindo soluções... 🚀";
     }
 }
 ```
 
 </td>
+
 <td width="45%" valign="top" align="center">
 
-```
+```text
 ddddoo:.              .,:looolloollllllllcccc::;;'.  .:doooodood:
 K00KKOc.             .'cllllodxkkkOOkkkkkxxxddolc,.  .l000000000o
 0000Od'              .;oddolc:codxkkkkkkxxxxddol:.    ,k00000000o
@@ -94,7 +103,6 @@ o.             .oxxxkxxkkkkxxddxxxdlllodddol:.         .lkO00000o
                             .......                        .,:ldc
                             .......                       ..,:lo:
                             ......                       ...,:co:
-                           .......                       ...;:co:
 ```
 
 </td>
@@ -105,28 +113,89 @@ o.             .oxxxkxxkkkkxxddxxxdlllodddol:.         .lkO00000o
 
 <div align="center">
 
+### — `stack.exe` —
+
+<br>
+
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" height="45" alt="Java"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" height="45" alt="SQL"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
+</a>
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=powerbi" height="45" alt="Power BI"/>
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=sap" height="45" alt="SAP"/>
+
+</div>
+
+---
+
+<div align="center">
+
 ### — `roadmap` —
 
 </div>
 
 ```java
-// progresso atual — 2025/2026
+// evolução contínua — 2026
 
-// [====================] 100% - concluido
-boolean logicaDeProgramacao       = true;  // ✔
-boolean variaveisETipos           = true;  // ✔
-boolean estruturasCondicionais    = true;  // ✔
-boolean comparacaoComEquals       = true;  // ✔
+// [====================] concluído
+boolean logicaDeProgramacao    = true;  // ✔
+boolean variaveisETipos        = true;  // ✔
+boolean estruturasCondicionais = true;  // ✔
 
-// [==========>         ] 50%  - em andamento
-boolean sqlEBancoDeDados          = false; // ⟳
-boolean orientacaoAObjetos        = false; // ⟳
-boolean estruturasDeRepeticao     = false; // ⟳
+// [==========>         ] em desenvolvimento
+boolean sqlEBancoDeDados       = true;  // ⟳
+boolean orientacaoAObjetos     = false; // ⟳
+boolean python                 = false; // ⟳
 
-// [>                   ] 0%   - em breve
-boolean springBoot                = false; // ◌
-boolean apisRest                  = false; // ◌
-boolean primeiroProjetoCompleto   = false; // ◌
+// [>                   ] próximos passos
+boolean springBoot             = false; // ◌
+boolean apisRest               = false; // ◌
+boolean projetoCompleto        = false; // ◌
+boolean dataAnalytics          = false; // ◌
+```
+
+---
+
+<div align="center">
+
+### — `about.exe` —
+
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  Tecnologia para mim não é apenas código.                   │
+│                                                              │
+│  É entender problemas, trabalhar com dados,                 │
+│  melhorar processos e transformar necessidades               │
+│  de negócio em soluções.                                    │
+│                                                              │
+│  Atualmente, estou construindo minha trajetória              │
+│  unindo tecnologia, análise de dados, desenvolvimento         │
+│  e visão de negócio.                                        │
+│                                                              │
+│  Sempre aprendendo. Sempre construindo. 🚀                  │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -153,16 +222,27 @@ boolean primeiroProjetoCompleto   = false; // ◌
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayssa%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayssaoliveira-rmo)
-[![Gmail](https://img.shields.io/badge/Gmail-rayssameira80%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayssameira80@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-RayssaOliveiraRMO-ff6eb4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayssaOliveiraRMO)
+<a href="https://www.linkedin.com/in/rayssaoliveira-rmo">
+<img src="https://img.shields.io/badge/LinkedIn-Rayssa%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<br>
+<a href="mailto:rayssameira80@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-rayssameira80%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=RayssaOliveiraRMO.RayssaOliveiraRMO&color=ff6eb4)
+<a href="https://github.com/RayssaOliveiraRMO">
+<img src="https://img.shields.io/badge/GitHub-RayssaOliveiraRMO-ff6eb4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=RayssaOliveiraRMO.RayssaOliveiraRMO&color=ff6eb4" alt="visitors"/>
 
 </div>
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
 </div>
+
