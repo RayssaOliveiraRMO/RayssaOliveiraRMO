@@ -36,14 +36,12 @@
 public class Rayssa extends Human {
 
     private final String nome   = "Rayssa Oliveira";
-    private final String curso  = "Análise e Desenvolvimento de Sistemas";
-    private final String foco   = "Technology for Business";
-    private final String cidade = "Goiânia, GO 🇧🇷";
+    private final String curso  = "ADS";
+    private final String cidade = "Goiânia, GO";
 
     private String[] stack = {
         "Java ☕",
         "SQL 🗄️",
-        "Python 🐍",
         "HTML 🌐",
         "Power BI 📊",
         "SAP ⚙️"
@@ -54,10 +52,6 @@ public class Rayssa extends Human {
         "Banco de Dados",
         "Orientação a Objetos",
         "Automação & Processos"
-    };
-
-    public String getStatus() {
-        return "entendendo problemas, construindo soluções... 🚀";
     }
 }
 ```
@@ -116,57 +110,29 @@ o.             .oxxxkxxkkkkxxddxxxdlllodddol:.         .lkO00000o
 <a href="https://www.java.com/">
 <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java"/>
 </a>
-&nbsp;&nbsp;
+  
 
 <a href="https://www.mysql.com/">
 <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="SQL"/>
 </a>
-&nbsp;&nbsp;
+  
 
 <a href="https://www.python.org/">
 <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
 </a>
-&nbsp;&nbsp;
+  
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
 <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
 </a>
-&nbsp;&nbsp;
+  
 
 <img src="https://skillicons.dev/icons?i=powerbi" height="45" alt="Power BI"/>
-&nbsp;&nbsp;
+  
 
 <img src="https://skillicons.dev/icons?i=sap" height="45" alt="SAP"/>
 
 </div>
-
----
-
-<div align="center">
-
-### — `roadmap` —
-
-</div>
-
-```java
-// evolução contínua — 2026
-
-// [====================] concluído
-boolean logicaDeProgramacao    = true;  // ✔
-boolean variaveisETipos        = true;  // ✔
-boolean estruturasCondicionais = true;  // ✔
-
-// [==========>         ] em desenvolvimento
-boolean sqlEBancoDeDados       = true;  // ⟳
-boolean orientacaoAObjetos     = false; // ⟳
-boolean python                 = false; // ⟳
-
-// [>                   ] próximos passos
-boolean springBoot             = false; // ◌
-boolean apisRest               = false; // ◌
-boolean projetoCompleto        = false; // ◌
-boolean dataAnalytics          = false; // ◌
-```
 
 ---
 
@@ -222,7 +188,7 @@ boolean dataAnalytics          = false; // ◌
 <img src="https://img.shields.io/badge/LinkedIn-Rayssa%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:rayssameira80@gmail.com">
+<a href="mailto:[rayssameira80@gmail.com](mailto:rayssameira80@gmail.com)">
 <img src="https://img.shields.io/badge/Gmail-rayssameira80%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
@@ -241,4 +207,5 @@ boolean dataAnalytics          = false; // ◌
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 </div>
+
 
