@@ -1,7 +1,3 @@
-Claro — eu manteria **a estética original**, mas mudaria o posicionamento para **Technology for Business + Data + desenvolvimento**, sem apagar seu lado de dev.
-
-Também colocaria **Java, SQL, Python e HTML com ícones oficiais**, além de Power BI e SAP.
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
