@@ -27,7 +27,11 @@
 <h3 align="center">── <code>stack.exe</code> ──</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,py,html&theme=dark" alt="Java, MySQL, Python, HTML"/>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" height="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" height="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" height="48"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" height="48"/>&nbsp;
+  <img src="powerbi.svg" alt="Power BI" height="48"/>
 </p>
 
 <!-- ============ ABOUT ============ -->
@@ -45,10 +49,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaOliveiraRMO&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&locale=pt-br" alt="Linguagens mais usadas"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RayssaOliveiraRMO&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&locale=pt_BR" alt="Sequência de contribuições"/>
-</p>
-
 <!-- ============ CONTATO ============ -->
 <h3 align="center">── <code>contact.exe</code> ──</h3>
 
@@ -60,6 +60,7 @@
   <a href="https://github.com/RayssaOliveiraRMO"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="48"/></a>
 </p>
 
+<p align="center"><sub>Tem um processo travado? Me chama. ⚙️</sub></p>
 
 <!-- ============ RODAPÉ ============ -->
 <p align="center">
