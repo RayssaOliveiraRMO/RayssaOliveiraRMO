@@ -1,184 +1,21 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=ff6eb4&center=true&vCenter=true&width=700&lines=Technology+for+Business+%E2%80%94+em+evolu%C3%A7%C3%A3o+cont%C3%ADnua.;Entendo+o+problema.+Estruturo+a+solu%C3%A7%C3%A3o.;Dados%2C+tecnologia+e+processos.;Hoje+deu+erro%2C+amanh%C3%A3+vira+feature.;Transformando+problemas+em+solu%C3%A7%C3%B5es." alt="typing"/>
-
-</div>
-
----
-
-<div align="center">
-
-```text
- ██████╗ ██████╗ ███╗   ███╗██████╗ ██╗██╗      █████╗ ███╗   ██╗██████╗  ██████╗
-██╔════╝██╔═══██╗████╗ ████║██╔══██╗██║██║     ██╔══██╗████╗  ██║██╔══██╗██╔═══██╗
-██║     ██║   ██║██╔████╔██║██████╔╝██║██║     ███████║██╔██╗ ██║██║  ██║██║   ██║
-██║     ██║   ██║██║╚██╔╝██║██╔═══╝ ██║██║     ██╔══██║██║╚██╗██║██║  ██║██║   ██║
-╚██████╗╚██████╔╝██║ ╚═╝ ██║██║     ██║███████╗██║  ██║██║ ╚████║██████╔╝╚██████╔╝
- ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═════╝
-```
-
-</div>
-
----
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-```java
-/**
- * @author  Rayssa Oliveira
- * @version 1.0
- * @since   2026
- */
-public class Rayssa extends Human {
-
-    private final String nome   = "Rayssa Oliveira";
-    private final String curso  = "ADS";
-    private final String cidade = "Goiânia, GO";
-
-    private String[] stack = {
-        "Java ☕",
-        "SQL 🗄️",
-        "HTML 🌐",
-        "Power BI 📊",
-        "SAP ⚙️"
-    };
-
-    private String[] explorando = {
-        "Data Analytics",
-        "Banco de Dados",
-        "Orientação a Objetos",
-        "Automação & Processos"
-    }
-}
-```
-
-</td>
-
-<td width="45%" valign="top" align="center">
-
-```text
-ddddoo:.              .,:looolloollllllllcccc::;;'.  .:doooodood:
-K00KKOc.             .'cllllodxkkkOOkkkkkxxxddolc,.  .l000000000o
-0000Od'              .;oddolc:codxkkkkkkxxxxddol:.    ,k00000000o
-000Oo'              ...''',:cloddxkkkxxdoc::::::,.    .d00000000o
-00Oo'             .';:::,';:::lddxkkxdollcc::;,'.     .o00000000o
-00d,.            .:oxxxxollllodddxkxlc::;,',,,,.      .dOO000000o
-0O:.            .cdkOOOkkxxxkxxxxxxocccc:'',...       'xOO000000o
-0x,            .:dxkkOOOOkkkkkkkxxxoclooolcc:,.       .oOO000000o
-Oo.            .ldxxkkOOOkkkkxxxkkxolloddddol:.        ,xOO00000o
-k;             'oxxkkkkkkkkkxxxkkkxolldxxxdol;.        .lOOO0000o
-o.             .oxxxkxxkkkkxxddxxxdlllodddol:.         .lkO00000o
-;               ;dxxkxxxkkkkkkxxdoccccloool;.          .lkO00000o
-,               .:dxxxxdddxxxxxxxxdllllllc'.           .cxO00000o
-,                 ,oxxxxdooolllccc:;:cc:,.              ;dO00000o
-'.                .:odxxxxdollcc::;;;,..               .,oOO0000o
-:'                 .cddxxkxddoolcc;'.                  ..lOO0000o
-:.                  ,oddxxxxxdoc:,.                     .ckO0000o
-.                   .:odxddolc:'..                       .;lkO00o
-                     .cdxxxdoc;'..                        ..;dO0o
-                      .:odxxxdo:'.                        ...'cko
-                       .,ldddoc,..                        ...';oc
-                         ..'''....                        ..,cdd:
-                          .........                       .;oxxxc
-                          ..........                     .'lxxxxc
-                          .........                      .,cdxxxc
-                         .......                         .,coxxxc
-                         ......                           .;ldxxc
-                         .......                           ':loxc
-                           ........                        .;cldc
-                            .......                        .,:ldc
-                            .......                       ..,:lo:
-                            ......                       ...,:co:
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### — `stack.exe` —
-
-<br>
-
-<a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java" height="45" alt="Java"/>
-</a>
-  
-
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" height="45" alt="SQL"/>
-</a>
-  
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
-</a>
-  
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
-</a>
-  
-
-<img src="https://skillicons.dev/icons?i=powerbi" height="45" alt="Power BI"/>
-  
-
-<img src="https://skillicons.dev/icons?i=sap" height="45" alt="SAP"/>
-
-</div>
-
----
-
-<div align="center">
-
-### — `about.exe` —
-
-</div>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  Tecnologia para mim não é apenas código.                   │
-│                                                              │
-│  É entender problemas, trabalhar com dados,                 │
-│  melhorar processos e transformar necessidades               │
-│  de negócio em soluções.                                    │
-│                                                              │
-│  Atualmente, estou construindo minha trajetória              │
-│  unindo tecnologia, análise de dados, desenvolvimento         │
-│  e visão de negócio.                                        │
-│                                                              │
-│  Sempre aprendendo. Sempre construindo. 🚀                  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-### — `snake.exe` —
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RayssaOliveiraRMO/RayssaOliveiraRMO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RayssaOliveiraRMO/RayssaOliveiraRMO/output/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/RayssaOliveiraRMO/RayssaOliveiraRMO/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
+<!-- ============ CABEÇALHO ============ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:a78bfa,50:f472b6,100:22d3ee" width="100%"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Tecnologia+ligada+a+processo;Dados+%E2%86%92+Insights+%E2%86%92+Solu%C3%A7%C3%B5es;Tem+um+problema%3F+Bora+resolver." alt="Tecnologia ligada a processo"/> </p> <p align="center"> <img src="tecnologia-processo.svg" alt="Processo travado sendo conectado à tecnologia e voltando a fluir" width="100%"> </p> <!-- ============ WHOAMI ============ --> <h3 align="center">── <code>whoami.exe</code> ──</h3> <table align="center"> <tr> <td align="center" width="170">🔍<br><b>Entendo</b><br><sub>o problema de verdade</sub></td> <td align="center" width="170">📊<br><b>Analiso</b><br><sub>os dados</sub></td> <td align="center" width="170">⚙️<br><b>Melhoro</b><br><sub>o processo</sub></td> <td align="center" width="170">🚀<br><b>Entrego</b><br><sub>a solução</sub></td> </tr> </table> <!-- ============ STACK ============ --> <h3 align="center">── <code>stack.exe</code> ──</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=java,mysql,py,html&theme=dark" alt="Java, MySQL, Python, HTML"/> </p> <!-- ============ ABOUT ============ --> <h3 align="center">── <code>about.exe</code> ──</h3>
+text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  Tecnologia para mim não é apenas código.            │
+│                                                      │
+│  É entender problemas, trabalhar com dados,          │
+│  melhorar processos e transformar necessidades       │
+│  de negócio em soluções.                             │
+│                                                      │
+│  Atualmente, estou construindo minha trajetória      │
+│  unindo tecnologia, análise de dados,                │
+│  desenvolvimento e visão de negócio.                 │
+│                                                      │
+│  > Sempre aprendendo. Sempre construindo._           │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+<!-- ============ STATS ============ --> <h3 align="center">── <code>stats.exe</code> ──</h3> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&locale=pt-br" alt="Estatísticas do GitHub"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&locale=pt-br" alt="Linguagens mais usadas"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?
 
 ### — `contato` —
 
