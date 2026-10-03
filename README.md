@@ -15,7 +15,7 @@ text
 │  > Sempre aprendendo. Sempre construindo._           │
 │                                                      │
 └──────────────────────────────────────────────────────┘
-<!-- ============ STATS ============ --> <h3 align="center">── <code>stats.exe</code> ──</h3> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&locale=pt-br" alt="Estatísticas do GitHub"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&locale=pt-br" alt="Linguagens mais usadas"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?
+<!-- ============ STATS ============ --> <h3 align="center">── <code>stats.exe</code> ──</h3> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=RayssaOliveiraRMO &show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&locale=pt-br" alt="Estatísticas do GitHub"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayssaOliveiraRMO &layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&locale=pt-br" alt="Linguagens mais usadas"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?
 
 ### — `contato` —
 
