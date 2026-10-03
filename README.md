@@ -60,7 +60,6 @@
   <a href="https://github.com/RayssaOliveiraRMO"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="48"/></a>
 </p>
 
-<p align="center"><sub>Tem um processo travado? Me chama. ⚙️</sub></p>
 
 <!-- ============ RODAPÉ ============ -->
 <p align="center">
