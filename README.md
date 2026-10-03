@@ -53,8 +53,11 @@
 <h3 align="center">── <code>contact.exe</code> ──</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rayssaoliveira-rmo"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn"/></a>
-  <a href="mailto:rayssameira80@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=f472b6" alt="E-mail"/></a>
+  <a href="https://www.linkedin.com/in/rayssaoliveira-rmo"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48"/></a>
+  &nbsp;
+  <a href="mailto:rayssameira80@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="E-mail" height="48"/></a>
+  &nbsp;
+  <a href="https://github.com/RayssaOliveiraRMO"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="48"/></a>
 </p>
 
 <p align="center"><sub>Tem um processo travado? Me chama. ⚙️</sub></p>
@@ -63,4 +66,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:22d3ee,50:f472b6,100:a78bfa" width="100%"/>
 </p>
-
